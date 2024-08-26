@@ -1,0 +1,5 @@
+﻿Create Database Demo_DB
+
+
+
+Create Table Users(Id Integer Identity(1,1),UserName Varchar(100),Password Varchar(100),Email Varchar(100) Primary Key)
