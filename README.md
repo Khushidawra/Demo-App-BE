@@ -6,7 +6,7 @@ SSMS
 ## Installation
 1. **Clone the Repository**
    cmd
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Khushidawra/Demo-App-BE.git
 
    cd Demo-App-BE
    dotnet restore - To Restore Packages
