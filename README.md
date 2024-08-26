@@ -1,1 +1,20 @@
-# Demo-App-BE
+Softwares required to run BE Code are : 
+Visual Studio
+SQL Server
+SSMS
+
+## Installation
+1. **Clone the Repository**
+   cmd
+   git clone https://github.com/yourusername/your-repository.git
+
+   cd Demo-App-BE
+   dotnet restore - To Restore Packages
+   Create the database and tables (Queries in script folder)
+   Run the first query in ssms then change the database to newly created database and then execute the second query.
+   Now the Database is setup.
+
+2.Setup the Code in VS Studio
+Update the appSettings.json set ServerName to your SSMS ServerName and Database Name to Newly Created Database.
+
+3.Run the Code
