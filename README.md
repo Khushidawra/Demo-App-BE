@@ -10,7 +10,7 @@ SSMS
 
    cd Demo-App-BE
    dotnet restore - To Restore Packages
-   Create the database and tables (Queries in script folder)
+   ## Create the database and tables (Queries in script folder)
    Run the first query in ssms then change the database to newly created database and then execute the second query.
    Now the Database is setup.
 
