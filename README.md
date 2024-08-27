@@ -15,6 +15,7 @@ SSMS
    Now the Database is setup.
 
 2.Setup the Code in VS Studio
+Open the .sln file in first Demo-App-BE Folder.
 Update the appSettings.json set ServerName to your SSMS ServerName and Database Name to Newly Created Database.
 
 3.Run the Code
